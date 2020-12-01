@@ -4,7 +4,7 @@ const data = require("./surprisejson.json");
 const collectionKey = "surprise"; //name of the collection
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://emotionalshakespear-qbfi.firebaseio.com"
+  databaseURL: //"https://xxxx.firebaseio.com"
 });
 const firestore = admin.firestore();
 const settings = {timestampsInSnapshots: true};
