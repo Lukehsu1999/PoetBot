@@ -1,0 +1,80 @@
+{
+  "id": "adeb321c-3691-4d70-94f8-56e7a32742e5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "options_select",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Howdy 😄 I am a bot that loves poems! Every feeling is natural and it is normal to feel the way you feel 😄. Other people had similar feeling before. I share some poems that match your mood 😉"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "About",
+          "title": "Please select one of the options 😊",
+          "buttons": [
+            {
+              "postback": "about_us",
+              "text": "About"
+            },
+            {
+              "postback": "poem_emotion",
+              "text": "Poem by Emotion"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing?",
+            "Hello! How can I help you?",
+            "Good day! What can I do for you today?",
+            "Greetings! How can I assist?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

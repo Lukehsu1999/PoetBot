@@ -1,0 +1,67 @@
+[
+  {
+    "id": "550055d2-2232-45a6-9664-748644575aaa",
+    "data": [
+      {
+        "text": "What does the chatbot do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d63ae9d7-20f7-4a65-8102-66dee65e3921",
+    "data": [
+      {
+        "text": "what does it do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0167b0e-796d-4428-ae4b-00162dbafda3",
+    "data": [
+      {
+        "text": "about us?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa0dec1d-9eed-4c0d-a925-7310999e349d",
+    "data": [
+      {
+        "text": "what does this chatbot do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c880d84d-e38c-4672-800f-3a29b9147943",
+    "data": [
+      {
+        "text": "What is this program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

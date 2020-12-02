@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ab9ae419-91a4-40f4-93a7-1e0470ae2b87",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "afraid",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      },
+      {
+        "text": " of everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be9b6884-ffcd-432e-9fd7-9c86976645ae",
+    "data": [
+      {
+        "text": "I am super ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cf0a453-18a3-4794-b686-0a70c4e2cdde",
+    "data": [
+      {
+        "text": "I am full of ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2db30b0-ca5e-4c2a-9e85-192bb94f21bb",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "surprised",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5907ffa0-25bc-4ff6-9303-2708fbc67dfd",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "furious",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20c6d695-8844-47d3-81d9-f9aaa614ccc5",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotion",
+        "alias": "Emotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "6894cbe9-1db3-4c96-b0b4-aa199bd60ec3",
+  "name": "Emotion",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

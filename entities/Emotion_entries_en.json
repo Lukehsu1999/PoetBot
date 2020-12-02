@@ -1,0 +1,82 @@
+[
+  {
+    "value": "sadness",
+    "synonyms": [
+      "Sad",
+      "depressed",
+      "sorrowful",
+      "unhappy",
+      "miserable",
+      "down",
+      "melancholy"
+    ]
+  },
+  {
+    "value": "joy",
+    "synonyms": [
+      "Happy",
+      "merry",
+      "joyful",
+      "contented",
+      "delighted",
+      "carefree",
+      "joyous"
+    ]
+  },
+  {
+    "value": "anger",
+    "synonyms": [
+      "Angry",
+      "furious",
+      "irritated",
+      "provoked",
+      "displeased",
+      "enraged",
+      "outraged",
+      "mad",
+      "rage"
+    ]
+  },
+  {
+    "value": "surprise",
+    "synonyms": [
+      "surprised",
+      "astonished",
+      "amazed",
+      "stunned",
+      "shocked",
+      "speechless"
+    ]
+  },
+  {
+    "value": "fear",
+    "synonyms": [
+      "fear",
+      "terror",
+      "afraid",
+      "frightened",
+      "scared",
+      "nervous",
+      "worried"
+    ]
+  },
+  {
+    "value": "love",
+    "synonyms": [
+      "fondness",
+      "tenderness",
+      "attachment",
+      "endearment",
+      "devotion",
+      "adoration",
+      "idolization",
+      "passion",
+      "lust",
+      "care",
+      "caring",
+      "sympathy",
+      "romance",
+      "amour"
+    ]
+  }
+]

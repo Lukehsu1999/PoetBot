@@ -1,0 +1,47 @@
+{
+  "id": "fc1465fc-227c-4357-95ad-f3c795be8f1a",
+  "name": "options_select : poem_emotion",
+  "auto": true,
+  "contexts": [
+    "options_select"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "options_select",
+          "lifespan": 5
+        },
+        {
+          "name": "mood_select",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Which mood of poems would suit your feelings?",
+            "How do you feel today? I am going to find something that matches your feelings~"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

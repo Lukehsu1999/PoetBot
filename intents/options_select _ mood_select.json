@@ -1,0 +1,51 @@
+{
+  "id": "eb4ec4a6-ee61-4b54-9941-bf693d41c798",
+  "name": "options_select : mood_select",
+  "auto": true,
+  "contexts": [
+    "options_select",
+    "mood_select"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5fcb5dd-4a7f-4e4c-abbe-722b0578bd62",
+          "name": "Emotion",
+          "required": false,
+          "dataType": "@Emotion",
+          "value": "$Emotion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
